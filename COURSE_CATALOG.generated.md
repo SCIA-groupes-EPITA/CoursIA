@@ -1,6 +1,6 @@
 # CoursIA Notebook Catalog
 
-Generated: 2026-06-16 09:12
+Generated: 2026-06-17 08:49
 Total notebooks: 561
 
 ## Status Summary
@@ -358,7 +358,7 @@ Total notebooks: 561
 | 108 | SL-1 - Apprentissage Logique : CBH Search et Versi | Python 3 | READY | PRODUCTION | 45min | po-2024 |
 | 109 | SL-10 --- Capstone : un pipeline neuro-symbolique  | Python 3 | READY | PRODUCTION | 30min | po-2024 |
 | 110 | SL-2 --- Apprentissage et Connaissance (EBL & RBL) | Python 3 | READY | PRODUCTION | 30min | po-2024 |
-| 111 | SL-3 --- Apprentissage Base sur la Pertinence (RBL | Python 3 | READY | PRODUCTION | 30min | po-2024 |
+| 111 | SL-3 --- Apprentissage Base sur la Pertinence (RBL | Python 3 | READY | PRODUCTION | 45min | po-2024 |
 | 112 | SL-4 --- Programmation Logique Inductive (ILP) | Python 3 (WSL) | READY | PRODUCTION | 45min | po-2024 |
 | 113 | SL-5 : Integration Neuro-Symbolique | Python 3 | READY | PRODUCTION | 45min | po-2024 |
 | 114 | SL-6 - ILP Moderne et Knowledge Graphs | Python 3 | READY | PRODUCTION | 45min | po-2024 |
